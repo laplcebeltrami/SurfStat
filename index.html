@@ -2552,8 +2552,7 @@ mean(slm3.dfs)
       <xmp>load sulcalpattern.mat
 template = SurfStatMesh(template);</xmp> <font color="#006600"> We need
         to convert the matlab mesh format to SurtStat mesh format.</font><xmp> 
-sex = [ones(15,1); zeros(20,1)]; Sex = term(sex); slm =
-SurfStatLinMod(sulcal, 1+Sex);
+sex = [ones(15,1); zeros(20,1)]; Sex = term(sex); <br>slm = SurfStatLinMod(sulcal, 1+Sex);
 slm = SurfStatT(slm, sex);
 SurfStatView(slm.t,template); 
 			</xmp> <font color="#006600"> Let's compare it to the direct
