@@ -5,7 +5,7 @@ This is the extended version of SurfStat that improves the functionalty of the o
 The webpage (manual) for SurfStat can be acceed from
 https://laplcebeltrami.github.io/SurfStat/
 
-surfstat.zip contains the original SurfStat package written by Keith Worsly. The folder Surfstat-Extended include the extended functions. 
+surfstat.zip contains the original SurfStat package written by Keith Worsly. The folder surfstat-extended include the extended functions. 
 
 (C) 2022 Keith J. Worlsy, Moo K. Chung
 University of Wisconsin-Madison
